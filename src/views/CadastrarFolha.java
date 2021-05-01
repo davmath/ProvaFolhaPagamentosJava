@@ -31,6 +31,7 @@ public class CadastrarFolha {
 			folha.setHorasT(sc.nextInt());
 			System.out.println("\nDigite o valor da hora:");
 			folha.setValor(sc.nextDouble());
+			
 		}
 	}
 }
